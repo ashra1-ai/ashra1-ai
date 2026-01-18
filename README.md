@@ -51,32 +51,6 @@ My work spans **applied AI, backend systems, automation, and edge computing**.
 
 ---
 
-## 🧠 Experience
-
-**Project Lead — VeriRAG-R (Undergraduate AI Society)**  
-*Jan 2026 – Present*  
-- Led delivery of a production-grade AI support automation platform  
-- Designed system architecture, data flows, and validation logic  
-- Implemented automated health monitoring sustaining **95%+ uptime**  
-- Built ingestion and transformation pipelines reducing manual onboarding by **45%**  
-- Coordinated sprint delivery, testing checkpoints, and documentation
-
-**Software Engineering Intern — University of Alberta Residence Services**  
-*Apr 2025 – Aug 2025*  
-- Supported enterprise systems across **40+ facilities**  
-- Automated ETL workflows with Python, reducing manual effort by **60%**  
-- Traced and resolved system-level data integration issues  
-- Built Power BI dashboards for operational KPIs and system health  
-- Maintained audit-ready documentation and change logs
-
-**Software Developer — Enactus Canada (UAlberta)**  
-*Oct 2024 – Jan 2025*  
-- Designed backend services aligned with stakeholder workflows  
-- Implemented transactional systems with validation and recovery logic  
-- Optimized data access paths, improving responsiveness by **22%**
-
----
-
 ## 🚀 Projects
 
 **🌱 Soilution — AI-Powered Irrigation & Diagnosis**  
