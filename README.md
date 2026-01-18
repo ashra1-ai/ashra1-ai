@@ -68,11 +68,6 @@ My work spans **applied AI, backend systems, automation, and edge computing**.
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashra1-ai&show_icons=true&hide_title=true)
-
----
-
 ## 🔗 Links
 - 💼 LinkedIn: https://www.linkedin.com/in/kanishkashra  
 - 🌐 Portfolio: https://ashra1-ai.github.io/Portfolio  
